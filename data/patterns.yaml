@@ -1,0 +1,7 @@
+train: ../patterns_dataset/images/train
+val: ../patterns_dataset/images/valid
+test: ../patterns_dataset/images/test
+
+# Classes
+nc: 3  # number of classes
+names: ['bos', 'sweep', 'pattern']  # class names
